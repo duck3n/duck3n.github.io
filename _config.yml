@@ -20,7 +20,7 @@ title                    : "닭오리의 하드코딩"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "duck3n"
-description              : "잡학사전"
+description              : "닭오리의 하드코딩"
 url                      : "https://duck3n.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -97,12 +97,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "닭오리의 하드코딩"
   location         : "republic of korea"
-  email            : "duck3n@naver.com"
-  github           : "https://github.com/duck3n"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "duck3n@naver.com"
+      url: mailto:duck3n@naver.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -114,7 +113,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/duck3n"
+      url: "https://github.com/duck3n"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -130,10 +129,10 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/duck3n"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/duck3n"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
